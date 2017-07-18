@@ -1,3 +1,6 @@
+# remove raw data from repo
+data/*
+
 # History files
 .Rhistory
 .Rapp.history

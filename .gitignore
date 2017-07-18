@@ -1,5 +1,13 @@
-# remove raw data from repo
+# remove large data from repo
 data/*
+
+#Mac 
+._* 
+.DS_Store
+#git
+.gitignore
+.git/*
+.git
 
 # History files
 .Rhistory
